@@ -13,7 +13,7 @@ I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, 
 
 - 👨🏽‍💻 I’m currently obtaining my Master's degree in Data Science and working as a Blockchain developer
 - :mount_fuji: I’m a passionate traveler
-- :dizzy: I love learning new things and I am open to communication
+- :dizzy: I love learning new things and am open to communication!
 
 ---
 **My GitHub stats**
