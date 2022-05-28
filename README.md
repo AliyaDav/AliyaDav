@@ -9,14 +9,14 @@ I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, 
 </div>
 
 ---
-**About me:**
+**:star: About me:**
 
 - 👨🏽‍💻 I’m currently obtaining my Master's degree in Data Science and working as a Blockchain developer
 - :mount_fuji: I’m a passionate traveler
-- :dizzy: I love learning new things and am open to communication!
+- :dizzy: I love learning new things and am open to communication
 
 ---
-**My GitHub stats**
+**:fire: My GitHub stats**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyaDav&show_icons=true&theme=gruvbox_light)
 
@@ -37,4 +37,4 @@ I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"></code>
 
 
-💬 Feel free to [reach out](https://telegram.me/aliya_dav) and ask me anything!
+Feel free to [reach out](https://telegram.me/aliya_dav) and ask me anything:wink:
