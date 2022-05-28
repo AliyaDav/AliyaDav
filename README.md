@@ -1,5 +1,4 @@
-### Hey there! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="30" height="30" />
-
+### Hey there! :wave: 
 I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, frontend and backend development. I have worked with Flask, SQLAlchemy, React, Node.js, web3.js and ethers.js, Hardhat, developing a wide range of skills in diverse areas. 
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
@@ -9,14 +8,14 @@ I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, 
 </div>
 
 ---
-**:star: About me:**
+**About me:**
 
-- 👨🏽‍💻 I’m currently obtaining my Master's degree in Data Science and working as a Blockchain developer
+- 👨🏽‍💻 Currently I'm obtaining my Master's degree in Data Science and working as a Blockchain developer
 - :mount_fuji: I’m a passionate traveler
 - :dizzy: I love learning new things and am open to communication
 
 ---
-**:fire: My GitHub stats**
+**My GitHub stats**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyaDav&show_icons=true&theme=gruvbox_light)
 
