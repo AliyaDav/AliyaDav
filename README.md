@@ -1,10 +1,10 @@
 ### Hey there! :wave: 
 I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, frontend and backend development. I have worked with Flask, SQLAlchemy, React, Node.js, web3.js and ethers.js, Hardhat, developing a wide range of skills in diverse areas. 
 
-####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
+![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
  <div>
-  <img align="right" alt="GIF" src="https://github.com/AliyaDav/testing/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
+  <img alt="GIF" src="https://github.com/AliyaDav/testing/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
 </div>
 
 ---
