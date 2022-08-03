@@ -1,5 +1,7 @@
 ### Hey there! :wave: 
-I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, frontend and backend development. I have worked with Flask, SQLAlchemy, React, Node.js, web3.js and ethers.js, Hardhat, developing a wide range of skills in diverse areas. 
+I'm Aliya, a Blockchain Dev with Data science background. Currently I'm writing smart contracts on EVM, constantly learning and trying out new technologies and frameworks.
+
+My learning path during past 6 years: Econometrics --> Stats --> ML --> DS --> Blockchain --> next(?)
 
 ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
 
@@ -7,23 +9,12 @@ I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, 
   <img alt="GIF" src="https://github.com/AliyaDav/testing/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
 </div>
 
----
-**About me:**
+## Currently working on:
+- 👨🏽‍💻 Writing my MSc thesis on using Graph Neural Networks to predicting solutions for the Vehicle Routing Problem
+- ⌨️ Getting better at smart contracts and blockchain
+- 🌱 Learning backend dev
 
-- 👨🏽‍💻 Currently I'm obtaining my Master's degree in Data Science and working as a Blockchain developer
-- :mount_fuji: I’m a passionate traveler
-- :dizzy: I love learning new things and am open to communication
-
----
-**My GitHub stats**
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyaDav&show_icons=true&theme=gruvbox_light)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliyaDav)
-
----
-**Languages and Tools:**   
-
+## Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -35,5 +26,15 @@ I'm Aliya, a Blockchain Developer with experience in EVM and Solana Blockchain, 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"></code>
 
+## My GitHub stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyaDav&show_icons=true&theme=gruvbox_light)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliyaDav)
+
+## About me:
+- 🌎 Passionate traveler
+- :runner: Run addict
+- :art: Inspired by modern art
 
 Feel free to [reach out](https://telegram.me/aliya_dav) and ask me anything:wink:
