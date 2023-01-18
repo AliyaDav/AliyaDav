@@ -10,9 +10,9 @@ My learning path during past 6 years: Econometrics --> Stats --> ML --> DS --> B
 </div>
 
 ## Currently working on:
-- 👨🏽‍💻 Writing my MSc thesis on using Graph Neural Networks to predicting solutions for the Vehicle Routing Problem
-- ⌨️ Getting better at smart contracts and blockchain
-- 🌱 Learning backend dev
+- 👨🏽‍💻 Core Contributor to [Alluo](https://www.alluo.com/) DeFi protocol.
+- ⌨️ Getting better at smart contracts and blockchain.
+- 🌱 Building [Chainboard Academy](https://chainboard.academy/) to prepare the next gen of web3 devs. 
 
 ## Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
