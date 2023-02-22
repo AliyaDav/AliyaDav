@@ -1,9 +1,7 @@
 ### Hey there! :wave: 
-I'm Aliya, a Blockchain Dev with Data science background. Currently I'm writing smart contracts on EVM, constantly learning and trying out new technologies and frameworks.
+I'm Aliya, a developer and data scientist constantly looking for new challenges. 
 
-My learning path during past 6 years: Econometrics --> Stats --> ML --> DS --> Blockchain --> next(?)
-
-![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
+My learning path during past 6 years: Econometrics --> Stats --> ML --> DS --> Blockchain. 
 
  <div>
   <img alt="GIF" src="https://github.com/AliyaDav/testing/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
