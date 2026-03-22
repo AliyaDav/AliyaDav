@@ -1,16 +1,16 @@
 ### Hey there! :wave: 
-I'm Aliya, a developer and data scientist constantly looking for new challenges. 
+I'm Aliya, an IT product manager building products in finTech and healthTech.  
 
-My learning path during past 6 years: Econometrics --> Stats --> ML --> DS --> Blockchain. 
+My learning path during past 9 years: Econometrics --> Stats --> ML --> DS --> Blockchain --> Product Management --> AI agents 
 
  <div>
   <img alt="GIF" src="https://github.com/AliyaDav/testing/blob/main/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
 </div>
 
 ## Currently working on:
-- 👨🏽‍💻 Core Contributor to [Alluo](https://www.alluo.com/) DeFi protocol.
-- ⌨️ Getting better at smart contracts and blockchain.
-- 🌱 Building [Chainboard Academy](https://chainboard.academy/) to prepare the next gen of web3 devs. 
+- 👨🏽‍💻 [Nutriconnect](https://nutriconnect.app/) – personal heath OS.
+- 🧑‍🍳 RemyCook – AI personal chef and nutritionist.
+- 👩🏻‍💼 Donna – personal AI assistant.
 
 ## Languages and Tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
